@@ -1,3 +1,3 @@
 <<<<<<< HEAD
 hello mimou
-thank you coursera for this course i really apreciat for this
+thank you coursera for this course . thank you
