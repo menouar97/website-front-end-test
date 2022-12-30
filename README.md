@@ -6,7 +6,6 @@
 </head>
 <body>
 <div class="row">
-
   <div class="column1" float: left;
   width: 33.33%;
 .row:after 
