@@ -1,32 +1,18 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-<head> 
-<meta charset="utf-8">
-<title> MBEAUTY WARSAW IS THE BEST</title>
+<head >
+
+> OUR MENU 
 </head>
-<body>
-<div class="row">
-  <div class="column1" float: left;
-  width: 33.33%;
-.row:after 
-  content: "lesson 1";
-  display: table;
-  clear: both;>
-   </div>
-  <div class="column2" float: left;
-  width: 33.33%;
-.row:after 
-  content: "lesson 1";
-  display: table;
-  clear: both;>
-  	</div>
-  <div class="column3" float: left;
-  width: 33.33%;
-.row:after 
-  content: "lesson 1";
-  display: table;
-  clear: both;>
-  	 </div>
-</div>
-</body>
-</html>
+<table>
+    <tr>
+        <td id="left">suchi</td>
+        <td id="center">beef</td>
+        <td id="right">chicken</td>
+    </tr>
+    <tr>
+        <td style="white-space: nowrap">Sushi comes from a Japanese word meaning "sour rice"</td>
+        <td style="width:90%">to have a complaint about something</td>
+        <td style="white-space: nowrap">you are afraid to do something</td>
+    </tr>
+</table>
